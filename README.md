@@ -4,6 +4,7 @@
 
 ## Emerald
 A green/emerald theme for [Obsidian.md](https://obsidian.md/)
+It is a modified version of cotemaxine's amethyst theme
 
 It works best with dark theme
 
