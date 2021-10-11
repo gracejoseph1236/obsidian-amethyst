@@ -1,11 +1,11 @@
-![Example](screenshot.png)
+![Example](example.png)
 
 ---
 
-## Amethyst
-A purple/amethyst theme for [Obsidian.md](https://obsidian.md/)
+## Emerald
+A green/emerald theme for [Obsidian.md](https://obsidian.md/)
 
-It's working for both dark and light theme
+It works best with dark theme
 
 You can install from the Custom CSS plugin in the app itself or manually
 
